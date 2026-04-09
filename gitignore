@@ -15,6 +15,7 @@
 *.npz
 *.pt
 *.ckpt
+*.sh
 
 # Outputs
 outputs/
